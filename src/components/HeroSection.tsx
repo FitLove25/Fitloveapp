@@ -32,7 +32,7 @@ const HeroSection = () => {
 
             <div className="mt-12 flex flex-col items-center md:items-start space-y-4">
               <p className="text-base text-red-300 font-semibold animate-pulse">
-                Transforme seu relacionamento em apenas 2 minutos de leitura.
+                Os próximos 2 minutos de leitura vão mudar a sua vida sexual.
               </p>
             </div>
           </div>
