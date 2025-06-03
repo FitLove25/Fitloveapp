@@ -16,7 +16,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 py-20">
         <div className="max-w-3xl mx-auto text-center text-white">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight animate-fade-in">
-            Incendeie Sua Paixão e Esculpa Seu Corpo em 10 Minutos de Puro Prazer!
+             Emagreça Fazendo Sexo e Reacenda a Paixão no Seu Relacionamento! 
           </h1>
           
           <h2 className="text-xl md:text-2xl font-medium mb-8 animate-fade-in-delay">
