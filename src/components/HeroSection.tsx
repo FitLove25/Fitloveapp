@@ -33,7 +33,7 @@ const HeroSection = () => {
 
             <div className="mt-12 flex items-center justify-center md:justify-start space-x-2">
               <div className="h-0.5 w-12 bg-red-400"></div>
-              <p className="text-lg font-medium">Mais de 800 casais transformados. Você vai ficar fora dessa?</p>
+              <p className="text-lg font-medium">Temos uma surpresa ao final da página!</p>
               <div className="h-0.5 w-12 bg-red-400"></div>
             </div>
           </div>
