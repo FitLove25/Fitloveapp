@@ -2,20 +2,19 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="relative min-h-screen flex items-center overflow-hidden">
-      {/* Background image with overlay */}
-      <div className="absolute inset-0 z-0">
+    <section className="relative min-h-screen flex items-center bg-black text-white">
+      {/* Logo no topo */}
+      <div className="absolute top-6 left-0 right-0 flex justify-center z-20">
         <img 
-          src="https://i.pinimg.com/736x/57/18/37/5718377966d13c3c0550adadc2d419ba.jpg" 
-          alt="Casal FITLOVE" 
-          className="w-full h-full object-cover"
+          src="https://fitlove.online/wp-content/uploads/2025/05/FitLove-400-x-400-px-1.png" 
+          alt="Logo FitLove"
+          className="h-16 w-auto"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-black/40"></div>
       </div>
-      
+
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 py-20">
-        <div className="max-w-6xl mx-auto text-white grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-          {/* Text content */}
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          {/* Texto principal */}
           <div className="text-center md:text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight animate-fade-in">
               Emagreça Fazendo Sexo e Reacenda a Paixão no Seu Relacionamento!
@@ -31,14 +30,14 @@ const HeroSection = () => {
               <li>💪 E sim, tudo isso pode começar hoje mesmo — ao lado de quem você ama.</li>
             </ul>
 
-            <div className="mt-12 flex items-center justify-center md:justify-start space-x-2">
-              <div className="h-0.5 w-12 bg-red-400"></div>
-              <p className="text-lg font-medium">Temos uma surpresa ao final da página!</p>
-              <div className="h-0.5 w-12 bg-red-400"></div>
+            <div className="mt-12 flex flex-col items-center md:items-start space-y-4">
+              <p className="text-base text-red-300 font-semibold animate-pulse">
+                Leia a página até o final e ganhe uma surpresa.
+              </p>
             </div>
           </div>
 
-          {/* Right-side image */}
+          {/* Imagem lateral */}
           <div className="w-full">
             <img 
               src="https://i.pinimg.com/736x/08/2d/43/082d43e3ad59418723f4bb37f89a4c11.jpg" 
