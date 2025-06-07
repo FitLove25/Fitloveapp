@@ -24,8 +24,7 @@ const Testimonials = () => {
                   ))}
                 </div>
                 <p className="text-gray-600 italic text-lg">
-                  "O FITLOVE mudou nossa rotina completamente. Estamos mais conectados, 
-                  temos mais energia e nossas noites são muito mais especiais agora!"
+                  "Fazia tempo que não nos sentiamos tão próximos assim."
                 </p>
                 <p className="font-bold text-gray-800">
                   Carlos e Gabriela, 42 e 38 anos
