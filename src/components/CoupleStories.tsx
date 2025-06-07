@@ -62,7 +62,7 @@ const CoupleStories = () => {
             image="https://i.pinimg.com/736x/76/d6/db/76d6db85488808cbdb32a2f818f1c121.jpg"
             testimonial="Em apenas 30 dias, perdemos juntos 4kg e resgatamos aquela sintonia que tínhamos no início. Os treinos são divertidos e os desafios trouxeram uma nova energia para o nosso relacionamento."
             names="Marcos e Juliana"
-            ages="38 e 35 anos"
+            ages="38 e 32 anos"
             weightLoss="-4kg"
             days="Em 30 dias"
           />
@@ -72,7 +72,7 @@ const CoupleStories = () => {
             image="https://i.pinimg.com/736x/53/2a/99/532a99bb9f1ddf11e6541e4dbcf707e1.jpg"
             testimonial="Procurávamos algo que pudéssemos fazer juntas, e o FITLOVE foi perfeito. Além de nos aproximar, nos ajudou a criar uma rotina saudável sem precisar de academia. Perdemos 5kg juntas em 30 dias!"
             names="Renata e Camila"
-            ages="42 e 40 anos"
+            ages="39 e 37 anos"
             weightLoss="-5kg"
             days="Em 30 dias"
           />
