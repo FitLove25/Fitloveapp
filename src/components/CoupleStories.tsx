@@ -79,7 +79,7 @@ const CoupleStories = () => {
           
           {/* Couple 3 */}
           <CoupleCard 
-            image="https://i.pinimg.com/736x/17/e6/d1/17e6d1f2aae7780e91463f3292412089.jpg"
+            image="https://i.pinimg.com/736x/bc/f6/c4/bcf6c418bb24b6ef8ff8a17f0f25b88a.jpg"
             testimonial="Depois de 15 anos juntos, estávamos em uma rotina monótona. O FITLOVE não só nos ajudou a perder 3kg em um mês, mas também trouxe de volta aquele frio na barriga que sentíamos no início."
             names="André e Paula"
             ages="45 e 43 anos"
