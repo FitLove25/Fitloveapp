@@ -9,40 +9,43 @@ const ProblemSolution = () => {
           <div className="grid md:grid-cols-2 gap-12 items-start">
             {/* Problem Section */}
             <div className="bg-white rounded-2xl shadow-xl p-8 transform transition duration-500 hover:scale-105">
-              <h3 className="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-red-400 pb-3">PROBLEMA</h3>
+              <h3 className="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-red-400 pb-3">Está difícil se olhar no espelho?</h3>
               <p className="text-lg mb-6 text-gray-700">
-                Você e seu parceiro estão presos na mesmice? Quilos extras, desejo apagado, noites sem graça? A maioria dos casais sofre com:
+               As roupas não servem mais como antes, o corpo já não responde, e o pior...
+ O desejo sumiu. A conexão esfriou. A cama virou um lugar de sono — não de prazer. Se você sente que:
               </p>
               <ul className="space-y-4">
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">Sem tempo para academia ou dietas complicadas</span>
+                  <span className="text-gray-700">Vocês se distanciaram emocionalmente e fisicamente</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">Cansaço e desânimo que matam a conexão</span>
+                  <span className="text-gray-700">O peso virou um peso na autoestima e na relação</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">Intimidade zero e autoestima no chão</span>
+                  <span className="text-gray-700">O sexo virou raro (ou mecânico)</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">Frustração com o corpo e a relação</span>
+                  <span className="text-red-500 font-bold mr-2 text-xl">✓</span>
+                  <span className="text-gray-700">Saiba que vocês não estão sozinhos.</span>
                 </li>
               </ul>
             </div>
             
             {/* Solution Section */}
             <div className="bg-gradient-to-br from-red-500 to-orange-400 rounded-2xl shadow-xl p-8 text-white transform transition duration-500 hover:scale-105">
-              <h3 className="text-3xl font-bold mb-6 border-b-2 border-white/30 pb-3">SOLUÇÃO</h3>
+              <h3 className="text-3xl font-bold mb-6 border-b-2 border-white/30 pb-3">Existe uma maneira divertida, gostosa e real de virar esse jogo:
+</h3>
               <p className="text-lg mb-6">
-                FITLOVE é o segredo que une prazer, saúde e paixão em um método exclusivo! Você receberá:
+                 EMAGRECER FAZENDO SEXO! Apresentamos o Método FitLove.
               </p>
               <ul className="space-y-4">
                 <li className="flex items-start">
                   <span className="font-bold mr-2 text-xl">✓</span>
-                  <span>Treinos sensuais que queimam até 700 kcal e aquecem a química entre vocês</span>
+                  <span>Um programa de 21 dias que une saúde, tesão e conexão.
+</span>
                 </li>
                 <li className="flex items-start">
                   <span className="font-bold mr-2 text-xl">✓</span>
@@ -59,7 +62,7 @@ const ProblemSolution = () => {
               </ul>
               
               <p className="mt-6 text-lg italic border-l-4 pl-4 border-white/50">
-                "Sem suor chato, sem dietas sem graça. Apenas vocês dois, reacendendo a paixão e esculpindo o corpo que sempre sonharam."
+                "Nada de dietas restritivas ou treinos entediantes. É você, seu amor e um novo corpo reacendendo a paixão."
               </p>
               
               <div className="mt-8 text-center">
