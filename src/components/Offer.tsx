@@ -6,7 +6,7 @@ const Offer = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-6">Reacenda a Paixão e Transforme Seu Corpo AGORA!h2>
+            <h2 className="text-4xl font-bold mb-6">Reascenda a Paixão e Transforme Seu Corpo AGORA!h2>
             <p className="text-xl font-medium animate-pulse">
               Inscreva-se hoje e comece a viver noites inesquecíveis, você tem 30 dias de garantia total.
             </p>
