@@ -7,9 +7,9 @@ const Difference = () => {
     <section className="py-20 bg-gradient-to-b from-white to-gray-100" id="difference">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto text-center mb-16">
-          <h2 className="text-4xl font-bold mb-6 text-gray-800">Por que FITLOVE é Diferente?</h2>
+          <h2 className="text-4xl font-bold mb-6 text-gray-800">Por que o FITLOVE vai mudar sua vida?</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Transforme seu corpo e sua relação com um método feito para casais que querem resultados rápidos e prazer garantido.
+            Sinta seu coração bater mais forte, seu corpo se transformar e a paixão reacender com um método criado para casais que desejam redescobrir o desejo, a cumplicidade e a confiança — tudo isso com prazer, leveza e amor.
           </p>
         </div>
         
@@ -19,9 +19,9 @@ const Difference = () => {
             <div className="bg-red-500 text-white w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
               <Flame size={24} />
             </div>
-            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Técnicas Sensuais</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Toques que Transformam</h3>
             <p className="text-gray-600 text-center">
-              Exercícios que queimam calorias e aquecem a relação, com movimentos que fortalecem a conexão e o desejo.
+              Movimentos sensuais que derretem calorias e derretem corações, trazendo vocês mais perto, reacendendo a chama e fortalecendo cada abraço, cada olhar, cada momento a dois.
             </p>
           </div>
           
@@ -30,9 +30,9 @@ const Difference = () => {
             <div className="bg-red-500 text-white w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
               <Flame size={24} />
             </div>
-            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Desafios semanais</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Desafios que Unem Almas</h3>
             <p className="text-gray-600 text-center">
-              Missões secretas para reacender a paixão e criar momentos inesquecíveis a dois, todos os dias.
+              Missões diárias secretas, pensadas para reacender aquela faísca que fez vocês se apaixonarem. Crie memórias quentes, risadas compartilhadas e noites que vocês nunca vão esquecer.
             </p>
           </div>
           
@@ -41,7 +41,7 @@ const Difference = () => {
             <div className="bg-red-500 text-white w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
               <Flame size={24} />
             </div>
-            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Cardápio Afrodisíaco</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Sabores que Despertam</h3>
             <p className="text-gray-600 text-center">
               Receitas simples e irresistíveis que aumentam a energia, a libido e o prazer.
             </p>
