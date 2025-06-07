@@ -59,7 +59,7 @@ const CoupleStories = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Couple 1 */}
           <CoupleCard 
-            image="https://images.pexels.com/photos/3767396/pexels-photo-3767396.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            image="https://i.pinimg.com/736x/76/d6/db/76d6db85488808cbdb32a2f818f1c121.jpg"
             testimonial="Em apenas 30 dias, perdemos juntos 4kg e resgatamos aquela sintonia que tínhamos no início. Os treinos são divertidos e os desafios trouxeram uma nova energia para o nosso relacionamento."
             names="Marcos e Juliana"
             ages="38 e 35 anos"
