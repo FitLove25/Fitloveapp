@@ -52,7 +52,7 @@ const CoupleStories = () => {
         <div className="max-w-5xl mx-auto text-center mb-16">
           <h2 className="text-4xl font-bold mb-6 text-gray-800">Casais transformados</h2>
           <p className="text-xl text-gray-600">
-            Histórias reais de pessoas que transformaram seus corpos e relacionamentos
+            Histórias de casais que transformaram seus corpos e relacionamentos
           </p>
         </div>
         
@@ -69,7 +69,7 @@ const CoupleStories = () => {
           
           {/* Couple 2 */}
           <CoupleCard 
-            image="https://i.pinimg.com/736x/47/fe/4c/47fe4cf7e61b8984dd7912e490e1c4ff.jpg"
+            image="https://i.pinimg.com/736x/53/2a/99/532a99bb9f1ddf11e6541e4dbcf707e1.jpg"
             testimonial="Procurávamos algo que pudéssemos fazer juntas, e o FITLOVE foi perfeito. Além de nos aproximar, nos ajudou a criar uma rotina saudável sem precisar de academia. Perdemos 5kg juntas em 30 dias!"
             names="Renata e Camila"
             ages="42 e 40 anos"
