@@ -43,7 +43,7 @@ const Difference = () => {
             </div>
             <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Sabores que Despertam</h3>
             <p className="text-gray-600 text-center">
-              Receitas simples e irresistíveis que aumentam a energia, a libido e o prazer.
+              Receitas afrodisíacas que aquecem o corpo e a alma. Pratos simples, deliciosos e cheios de energia para alimentar a libido, a vitalidade e o prazer de estarem juntos.
             </p>
           </div>
           
@@ -52,9 +52,9 @@ const Difference = () => {
             <div className="bg-red-500 text-white w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
               <Flame size={24} />
             </div>
-            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Clube Secreto de Casais</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-800 text-center">Um Refúgio Só de Vocês</h3>
             <p className="text-gray-600 text-center">
-              Junte-se a uma comunidade VIP 100% anônima, onde iremos compartilhar conteúdos exclusivos.
+              Faça parte de um clube secreto, 100% anônimo, onde iremos compartilhar conteúdos exclusivos.
             </p>
           </div>
         </div>
@@ -62,7 +62,7 @@ const Difference = () => {
         <div className="text-center mt-16">
           <ScrollLink to="offer">
             <button className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-full shadow-lg transform transition duration-300 hover:scale-105">
-              QUERO ESSA TRANSFORMAÇÃO HOJE!
+              QUERO SENTIR ESSA PAIXÃO E MUDANÇA AGORA!
             </button>
           </ScrollLink>
           <p className="text-gray-600 mt-4">
