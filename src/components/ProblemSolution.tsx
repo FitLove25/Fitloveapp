@@ -12,7 +12,8 @@ const ProblemSolution = () => {
               <h3 className="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-red-400 pb-3">Está difícil se olhar no espelho?</h3>
               <p className="text-lg mb-6 text-gray-700">
                As roupas não servem mais como antes, o corpo já não responde, e o pior...
- O desejo sumiu. A conexão esfriou. A cama virou um lugar de sono — não de prazer. Se você sente que:
+ O desejo sumiu. A conexão esfriou. A cama virou um lugar de sono — não de prazer. 
+Se você sente que:
               </p>
               <ul className="space-y-4">
                 <li className="flex items-start">
@@ -21,11 +22,11 @@ const ProblemSolution = () => {
                 </li>
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">O peso virou um peso na autoestima e na relação</span>
+                  <span className="text-gray-700">Seu peso virou um problema na autoestima e na relação</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✕</span>
-                  <span className="text-gray-700">O sexo virou raro (ou mecânico)</span>
+                  <span className="text-gray-700">O sexo ficou raro (ou mecânico)</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-red-500 font-bold mr-2 text-xl">✓</span>
